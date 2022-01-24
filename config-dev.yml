@@ -1,2 +1,3 @@
 config:
     value: dev
+    name: tom
