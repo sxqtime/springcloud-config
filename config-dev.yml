@@ -1,3 +1,4 @@
 config:
-    value: dev
+    value: devconfig
     name: tom
+    
