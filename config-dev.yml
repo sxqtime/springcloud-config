@@ -1,4 +1,4 @@
 config:
-    value: devconfig
+    value: devconfigtest
     name: tom
     
